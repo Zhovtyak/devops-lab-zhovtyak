@@ -35,9 +35,21 @@
   <img src="../assets/7.png" width="400">
 </p>
 
-### 8. Делаем коммит на develop ветке, делаем PR на main из неё, мёржим и удаляем develop
+### 8. Делаем коммит на develop ветке, делаем PR на main из неё
 <p align="center">
-  <img src="../assets/7.png" width="400">
+  <img src="../assets/8.png" width="400">
 </p>
 
+### 9. Делаем PR на main из неё, мёржим и удаляем develop
+<p align="center">
+  <img src="../assets/9.png" width="400">
+</p>
+
+<p align="center">
+  <img src="../assets/10.png" width="400">
+</p>
+
+<p align="center">
+  <img src="../assets/11.png" width="400">
+</p>
 
