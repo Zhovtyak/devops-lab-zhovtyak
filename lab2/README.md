@@ -23,5 +23,14 @@
 
 ### 3. Протестировал пайплайн: сделал commit и push в ветку main, проверил выполнение в разделе Actions, убедился, что Docker-образ появился в Docker Hub, и просмотрел логи выполнения каждого шага.
 <p align="center">
-  <img src="../assets/26.png" width="500">
+  <img src="../assets/27.png" width="500">
+</p>
+<p align="center">
+  <img src="../assets/28.png" width="500">
+</p>
+<p align="center">
+  <img src="../assets/29.png" width="500">
+</p>
+<p align="center">
+  <img src="../assets/30.png" width="500">
 </p>
