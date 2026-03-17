@@ -1,0 +1,51 @@
+site_name: Жобро
+site_description: Сайт о проектах
+site_author: Максим Жовтяк
+site_url: https://zhovtyak.github.io/devops-lab-zhovtyak/
+
+theme:
+  name: material
+  logo: images/logo-icon.svg
+  favicon: images/logo-icon.svg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Переключить на тёмную тему
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Переключить на светлую тему
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+plugins:
+  - search
+
+copyright: Copyright &copy; 2026 Maksim Zhovtyak
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zhovtyak
+      name: GitHub
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/toykion
+      name: Telegram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/
+      name: LinkedIn
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
